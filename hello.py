@@ -6,5 +6,5 @@ def more_goodbye():
     return "bi"
 
 
-# var = 1
-# var = var
+var = 1
+var = var
